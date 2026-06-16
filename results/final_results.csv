@@ -1,0 +1,4 @@
+Model,Average Reward
+PPO,0.0
+PPO + Memory,0.15
+EMPO-Light,0.25
